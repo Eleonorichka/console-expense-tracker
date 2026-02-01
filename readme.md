@@ -39,7 +39,7 @@ expense-tracker/
 2. Navigate to the project folder: 
 cd console-expense-tracker
 3. Run the application: python 
-main.py
+main.py 
 
 ### Note: Dates must be entered in the format YYYY-MM-DD.
 
