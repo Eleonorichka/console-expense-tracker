@@ -27,17 +27,15 @@ All changes are automatically saved, and data is restored on program start.
 
 ## Project Structure
 expense-tracker/
-├── expense.py           # Expense model
-├── category.py          # Category model
-├── expense_manager.py   # Business logic and data handling
-├── main.py              # Application entry point
-├── expenses.json        # Local data storage
-└── README.md            # Project documentation
+├── expense.py
+├── category.py
+├── expense_manager.py
+├── main.py
+├── expenses.json
+└── readme.md
 
 ## How to Run
-1. Clone the repository:
-```bash
- git clone https://github.com/Eleonorichka/console-expense-tracker.git
+1. Clone the repository: git clone https://github.com/Eleonorichka/console-expense-tracker.git
 2. Navigate to the project folder: 
 cd console-expense-tracker
 3. Run the application: python 
