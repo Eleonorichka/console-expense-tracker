@@ -26,13 +26,13 @@ Expenses and categories are stored locally in a JSON file (`expenses.json`).
 All changes are automatically saved, and data is restored on program start.
 
 ## Project Structure
-expense_tracker/
-├── expense.py
-├── category.py
-├── expense_manager.py
-├── main.py
-├── expenses.json
-└── readme.md
+expense_tracker
+- expense.py
+- category.py
+- expense_manager.py
+- main.py
+- expenses.json
+- readme.md
 
 ## How to Run
 1. Clone the repository: git clone https://github.com/Eleonorichka/console-expense-tracker.git
